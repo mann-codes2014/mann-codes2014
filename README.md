@@ -4,10 +4,10 @@
 
 <h3 align="center"> Full Stack Web Developer 3+ Years </h3>
 
-<h4 align="center"> React, Node, TypesScript, Nextjs, Nestjs, SQL, NoSQL </h4> -->
+<h4 align="center"> React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL </h4> -->
 
 ## Tools & Technologies
-  React, Node, TypesScript, Nextjs, Nestjs, SQL, NoSQL
+  React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL
 ## Projects
  1. **Rodent Control System** ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)
  
