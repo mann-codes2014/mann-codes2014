@@ -1,7 +1,8 @@
-# Abdur Rehman
-## Full Stack Web Developer
-### 3+ Years Experience
-##### React, Node, TypesScript, Nextjs, Nestjs, SQL, NoSQL
+<h1 align="center"> Abdur Rehman </h1>
+
+<h3 align="center"> Full Stack Web Developer 3+ Years </h3>
+
+<h4 align="center"> React, Node, TypesScript, Nextjs, Nestjs, SQL, NoSQL </h4>
 
 ## Projects
  1. **Rodent Control System**
