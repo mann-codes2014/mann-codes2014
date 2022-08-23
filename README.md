@@ -6,6 +6,9 @@
 
 <h4 align="center"> React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL </h4> -->
 
+## Work / Job Status
+*Currently Freelancing, But **Actively looking for Full Time Remote Job***
+
 ## Tools & Technologies
   React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL
 ## Projects
