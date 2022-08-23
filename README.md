@@ -6,6 +6,12 @@
 
 <h4 align="center"> React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL </h4> -->
 
+<p align="center"> 
+<a href="mailto:mann.codes2014@gmail.com">Gmail</a>
+<a href="https://twitter.com/abdur4082">Twitter</a>
+<a href="https://www.linkedin.com/in/abdur-rehman-8a8558106/">Linkedin</a>
+<p>
+
 ## Work / Job Status
 *Currently Freelancing, But **Actively looking for Full Time Remote Job***
 
