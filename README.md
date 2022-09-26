@@ -13,7 +13,7 @@
 <p>
 
 ## Work / Job Status
-*Currently Freelancing, But **Actively looking for Full Time Remote Job***
+*Full Stack Developer @ [RoomCoders](https://www.roomcoders.com/)*
 
 ## Tools & Technologies
   React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL
