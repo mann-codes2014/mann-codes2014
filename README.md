@@ -12,7 +12,7 @@
 <a href="https://twitter.com/abdur4082">Twitter</a>
 <a href="https://www.linkedin.com/in/abdur-rehman-8a8558106/">Linkedin</a>
 <p>
-  I am a <strong>Web Developer</strong> with over <strong>4</strong> years of professional experience. I have worked for several small and large companies, including <strong>Roomcoders</strong>, <strong>Smart Fusion</strong> and <strong>Agile Vectors</strong>. Besides I also do <strong>freelance</strong> work for clients across various industries.
+  I am a <strong>Full Stack Developer</strong> with over <strong>4</strong> years of professional experience. I have worked for several small and large companies, including <strong>Roomcoders</strong>, <strong>Smart Fusion</strong> and <strong>Agile Vectors</strong>. Besides I also do <strong>freelance</strong> work for clients across various industries.
 </p>
   <p>
   I am proficient but not limited to in <strong>HTML, CSS, JavaScript, Typescript, Node.js, Nestjs, React, Nextjs and PostgreSQL</strong>.I am also proficient in Git version control and version control systems such as GitHub or Bitbucket. I use Visual Studio Code and Windows on Dell Vostro.
