@@ -25,7 +25,7 @@ I also put efforts on improving my skills using platforms like Coursera, Edx, Ud
 </p>
 
 ## Work / Job Status
-*Full Stack Developer @ [RoomCoders](https://www.roomcoders.com/)*
+*Software Engineer - Backend @ [RoomCoders](https://www.roomcoders.com/)*
 
 ## Tools & Technologies
   React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL
