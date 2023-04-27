@@ -1,4 +1,4 @@
-![Header-Adobe](https://user-images.githubusercontent.com/97145056/201537574-a10c1275-44f9-4504-b806-3892cbc85f40.png)
+![github-header-image](https://user-images.githubusercontent.com/97145056/234776066-8819e9fe-e0b4-4fba-b038-07d717f5f5b4.png)
 
 
 <!-- <h1 align="center"> Abdur Rehman </h1>
