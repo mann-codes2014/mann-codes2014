@@ -1,18 +1,25 @@
 ![github-header-image](https://user-images.githubusercontent.com/97145056/234776066-8819e9fe-e0b4-4fba-b038-07d717f5f5b4.png)
 
 
-<!-- <h1 align="center"> Abdur Rehman </h1>
-
-<h3 align="center"> Full Stack Web Developer 3+ Years </h3>
-
-<h4 align="center"> React, Node, TypeScript, Nextjs, Nestjs, SQL, NoSQL </h4> -->
-
 <p align="center"> 
 <a href="mailto:mann.codes2014@gmail.com">Gmail</a>
 <a href="https://twitter.com/abdur4082">Twitter</a>
 <a href="https://www.linkedin.com/in/abdur-rehman-8a8558106/">Linkedin</a>
 <p>
-  I am a <strong>Full Stack Developer</strong> with over <strong>4</strong> years of professional experience. I have worked for several small and large companies, including <strong>Roomcoders</strong>, <strong>Smart Fusion</strong> and <strong>Agile Vectors</strong>. Besides I also do <strong>freelance</strong> work for clients across various industries.
+Hi there! 👋 I'm a backend engineer with 4 years of experience building scalable and robust systems. I specialize in designing and implementing APIs, databases, and server-side logic that power modern web and mobile applications.
+
+My skills include:
+
+Programming languages: I'm proficient in several programming languages, including Python, Java, and Golang.
+Web frameworks: I have experience with popular web frameworks such as Flask, Django, and Spring Boot.
+Database technologies: I'm familiar with both SQL and NoSQL databases, including PostgreSQL, MySQL, MongoDB, and Redis.
+Cloud platforms: I have experience deploying and managing applications on cloud platforms such as AWS, GCP, and Azure.
+DevOps tools: I'm comfortable using tools like Docker, Kubernetes, Jenkins, and GitLab for building, testing, and deploying applications.
+I'm passionate about writing clean, maintainable, and testable code, and I enjoy collaborating with other developers to build high-quality software. On my GitHub profile, you'll find some of the projects I've worked on, including open-source contributions and personal projects.
+
+</p>
+<p>
+  I am a <strong>Backend Software Engineer</strong> with over <strong>4</strong> years of professional experience. I have worked for several small and large companies, including <strong>Roomcoders</strong>, <strong>Smart Fusion</strong> and <strong>Agile Vectors</strong>. Besides I also do <strong>freelance</strong> work for clients across various industries.
 </p>
   <p>
   I am proficient but not limited to in <strong>HTML, CSS, JavaScript, Typescript, Node.js, Nestjs, React, Nextjs and PostgreSQL</strong>.I am also proficient in Git version control and version control systems such as GitHub or Bitbucket. I use Visual Studio Code and Windows on Dell Vostro.
