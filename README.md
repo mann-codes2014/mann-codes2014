@@ -35,7 +35,7 @@ During my job, I have worked on the admin and merchant portals from the front-en
 
     Agent Network is about placing agents in the far away and less developed areas of Pakistan. These agents can help people to open financial accounts who do not have direct access to banks. I was part of the core technical team as the technical solution was built by SmartFusion. I worked both on the Angular front-end and Nodejs back-end.
 
-1. **Ticketing System**  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+1. **Ticketing System**  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
 
 
     A Ticketing system for managing customers' complaints and tracking resolution of tickets in an African ISP TO7 Networks.
