@@ -5,8 +5,7 @@
 <a href="mailto:mann.codes2014@gmail.com">Gmail</a>
 <a href="https://twitter.com/abdur4082">Twitter</a>
 <a href="https://www.linkedin.com/in/abdur-rehman-8a8558106/">Linkedin</a>
-<p>
-Hi there! 👋 I'm a backend engineer with overall 4 years of experience building scalable and robust systems. I specialize in designing and implementing APIs, databases, and server-side logic that power modern web and mobile applications.
+<p>Hey there! 👋 I'm a backend engineer, and I love building strong and scalable systems that make modern applications tick. With 4 years of experience under my belt, I'm your go-to person for designing and implementing APIs, databases, and server-side logic. I'm always up for a challenge and love working on projects that push the limits of what's possible. Let's build something great together! 💻🚀✨
 
 
 
