@@ -22,7 +22,7 @@
 
 
 ## Work / Job Status
-*Full Stack Developer @ [RoomCoders](https://www.roomcoders.com/)*
+*Full Stack Developer @ [Preqtec](https://preqtec.com/)*
 
 ## Projects
 1. **Digital Services Solution** ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
