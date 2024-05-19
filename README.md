@@ -14,7 +14,7 @@
 <h2>Skills</h2>
 <ul>
   <li><strong>Programming languages:</strong> JavaScript, C# (Learner)</li>
-  <li><strong>Web frameworks:</strong> Express, NestJS, React, Angular, .NET (Learner)</li>
+  <li><strong>Web frameworks:</strong> Express, NestJS, Angular, .NET (Learner)</li>
   <li><strong>Database technologies:</strong> PostgreSQL, MongoDB, Redis</li>
   <li><strong>Cloud platforms:</strong> AWS</li>
   <li><strong>DevOps tools:</strong> Docker, GitLab</li>
