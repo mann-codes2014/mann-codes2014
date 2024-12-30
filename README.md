@@ -4,9 +4,7 @@
 
 <p align="center"> 
 <a href="mailto:mann.codes2014@gmail.com">Gmail</a>
-<a href="https://twitter.com/abdur4082">Twitter</a>
 <a href="https://www.linkedin.com/in/abdur-rehman-8a8558106/">Linkedin</a>
-  <a href="https://www.abdurrehman.pro/">Portfolio</a>
 <p>Hey there! 👋 I'm a Full Stack Developer, and I love building strong and scalable systems that make modern applications tick. With 5+ years of experience under my belt, I'm your go-to person for building UIs and implementing APIs. I'm always up for a challenge and love working on projects that push the limits of what's possible. Let's build something great together! 💻🚀✨
 
 
