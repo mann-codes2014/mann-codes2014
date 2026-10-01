@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Abdur Rehman
 
-### Full Stack Developer | Building Scalable Web Applications
+### Full Stack Developer | AI Engineer (Passionate) 
 
 <p>
   <a href="https://estaya-realestate.com/" target="_blank">
@@ -36,7 +36,7 @@ I enjoy working across the entire development lifecycle — from crafting respon
 - 💼 Currently working as a Full Stack Developer at [Estaya](https://estaya-realestate.com/)
 - 🚀 Experienced in building web applications and microservices
 - 🌱 Currently expanding my knowledge of Python, Odoo, Angular
-- 💡 Interested in scalable architectures, clean code, and modern technologies
+- 💡 Interested in AI Engineering
 - 🤝 Always open to learning, collaboration, and exciting opportunities
 
 ---
