@@ -35,7 +35,7 @@ I enjoy working across the entire development lifecycle — from crafting respon
 
 - 💼 Currently working as a Full Stack Developer at [Estaya](https://estaya-realestate.com/)
 - 🚀 Experienced in building web applications and microservices
-- 🌱 Currently expanding my knowledge of Python, Odoo, and ASP.NET Core
+- 🌱 Currently expanding my knowledge of Python, Odoo, Angular
 - 💡 Interested in scalable architectures, clean code, and modern technologies
 - 🤝 Always open to learning, collaboration, and exciting opportunities
 
@@ -45,12 +45,12 @@ I enjoy working across the entire development lifecycle — from crafting respon
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=nestjs,python,postgres,odoo" />
 </p>
 
 ### Tools & Platforms
